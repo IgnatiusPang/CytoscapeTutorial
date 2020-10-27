@@ -8,6 +8,6 @@ Cytoscape can be downloaded from this website (https://cytoscape.org/download.ht
 
 These tutorial materials were created for the 1st Australasian Data Visualisation and Bioinformatics Symposium (ADVBS), pre-Lorne proteomics conference workshop. The workshop was held 4 - 5th February 2020 in Melbourne University.
 
-The PDF of the tutorial notes is attached as PDF. The original document is available in Google Doc via this link: https://docs.google.com/document/d/1Z1ClYtVAUuxVbTGlORAGb5McaOoHwgXcFBusgEZmGhs/edit?usp=sharing
+The PDF of the tutorial notes is attached and the original document is available in Google Doc via this hyperlink: https://docs.google.com/document/d/1Z1ClYtVAUuxVbTGlORAGb5McaOoHwgXcFBusgEZmGhs/edit?usp=sharing
 
 
